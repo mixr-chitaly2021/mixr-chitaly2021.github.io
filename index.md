@@ -48,6 +48,8 @@ Accepted papers will be published on the free open-access repository CEUR-WS, **
 
 ## Supporters
 
+This workshop has been supported by the French National Agency (ANR) in the frame of its Technological Research JCJC program (GRACE, project ANR-18-CE33-0003).
+
 <img src="logo-anr.png" alt="ANR" width="200" style="float: left; margin-right: 10px;"/>
 <img src="LOGO_officiel_cropped.png" alt="ANR" width="180" style="float: left; margin-right: 10px;"/>
 
