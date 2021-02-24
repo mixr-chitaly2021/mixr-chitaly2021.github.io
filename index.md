@@ -32,7 +32,9 @@ Authors should use the 1 column CEUR-ART style:
 * An Overleaf page is available at: [https://www.overleaf.com/read/gwhxnqcghhdt](https://www.overleaf.com/read/gwhxnqcghhdt)
 * The offline version with the style files is at: [http://ceur-ws.org/Vol-XXX/CEURART.zip](http://ceur-ws.org/Vol-XXX/CEURART.zip)
 
-Accepted papers will be published on the free open-access repository CEUR-WS, which is indexed on SCOPUS.
+## Proceedings
+
+Accepted papers will be published on the free open-access repository CEUR-WS, **_which is indexed on SCOPUS_**.
 
 ## Organisers
 
