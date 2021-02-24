@@ -46,3 +46,6 @@ Accepted papers will be published on the free open-access repository CEUR-WS, **
 * [Patrick O'Toole](patrick.otoole@umail.ucc.ie), University College Cork, Ireland
 
 
+## Supporters
+
+[ANR](logo-anr.png)
