@@ -23,6 +23,17 @@ We invite participants to submit short (6 pages) papers that focus on Multi-part
 * System/interface ergonomics
 * Novel technologies
 
+## Submission instructions
+
+Short papers (6 pages) can be submitted through EasyChair: https://easychair.org/my/conference?conf=mixr21#
+
+Authors should use the 1 column CEUR-ART style:
+* The style is available from: Vol-XXX
+* An Overleaf page is available at: https://www.overleaf.com/read/gwhxnqcghhdt
+* The offline version with the style files is at: http://ceur-ws.org/Vol-XXX/CEURART.zip
+
+Accepted papers will be published on the free open-access repository CEUR-WS, which is indexed on SCOPUS.
+
 ## Organisers
 
 * Maurizio Mancini, University of Rome “Sapienza”, Italy
