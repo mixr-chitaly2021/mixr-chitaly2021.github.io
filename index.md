@@ -8,17 +8,19 @@ MIXR seeks to progress research on Multi-party Interaction in XR by pursuing the
 - to promote interdisciplinary discussion and collaboration between scholars in Computer Science and Social Sciences on XR, Social Signal Processing, Affective Computing, Multi-party Interaction
 
 ## Topics of interest
-This workshop invites participants whose work draws on the area of Multi-party Interaction and XR. Topics of interest for the workshop include, but are not limited to:
-* Emotion expression and recognition
+We invite participants to submit short (6 pages) papers that focus on Multi-party Interaction in XR. Topics of interest include Multi-Party (team/group) Interaction in XR, covering the following research areas:
+
+* Emotion recognition and expression
 * Movement expressivity
-* Emergent states and team dynamics
-* Joint activities
-* Ergonomics
+* Team emergent states and dynamics
+* Joint activity/collaboration
+* Immersive CSCW
 * Education and creativity
 * Serious games
 * Multimodality
 * Interaction fidelity
 * Theoretical models
+* System/interface ergonomics
 * Novel technologies
 
 ## Organisers
