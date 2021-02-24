@@ -34,7 +34,7 @@ Authors should use the 1 column CEUR-ART style:
 
 ## Proceedings
 
-Accepted papers will be published on the free open-access repository CEUR-WS, **_which is indexed on SCOPUS_**.
+Accepted papers will be published on the free open-access repository CEUR-WS, **which is indexed on SCOPUS**.
 
 ## Organisers
 
