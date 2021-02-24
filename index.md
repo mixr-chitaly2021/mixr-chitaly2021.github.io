@@ -25,22 +25,22 @@ We invite participants to submit short (6 pages) papers that focus on Multi-part
 
 ## Submission instructions
 
-Short papers (6 pages) can be submitted through EasyChair: [https://easychair.org/my/conference?conf=mixr21#]
+Short papers (6 pages) can be submitted through EasyChair: [https://easychair.org/my/conference?conf=mixr21#](https://easychair.org/my/conference?conf=mixr21#)
 
 Authors should use the 1 column CEUR-ART style:
 * The style is available from: Vol-XXX
-* An Overleaf page is available at: [https://www.overleaf.com/read/gwhxnqcghhdt]
-* The offline version with the style files is at: [http://ceur-ws.org/Vol-XXX/CEURART.zip]
+* An Overleaf page is available at: [https://www.overleaf.com/read/gwhxnqcghhdt](https://www.overleaf.com/read/gwhxnqcghhdt)
+* The offline version with the style files is at: [http://ceur-ws.org/Vol-XXX/CEURART.zip](http://ceur-ws.org/Vol-XXX/CEURART.zip)
 
 Accepted papers will be published on the free open-access repository CEUR-WS, which is indexed on SCOPUS.
 
 ## Organisers
 
-* Maurizio Mancini, University of Rome “Sapienza”, Italy
+* [Maurizio Mancini](mailto:m.mancini@di.uniroma1.it), University of Rome “Sapienza”, Italy
 * [Giovanna Varni](mailto:giovanna.varni@telecom-paris.fr), LTCI, Télécom Paris, Institut polytechnique de Paris, France
 * David Murphy, University College Cork (UCC), Ireland
 * Fabio Pellacini, University of Rome “Sapienza”, Italy
 * Laura Maye, University College Cork, Ireland
-* Patrick O'Toole, University College Cork, Ireland
+* [Patrick O'Toole](patrick.otoole@umail.ucc.ie), University College Cork, Ireland
 
 
