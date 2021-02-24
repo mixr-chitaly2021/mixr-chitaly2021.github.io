@@ -50,4 +50,4 @@ Accepted papers will be published on the free open-access repository CEUR-WS, **
 
 <img src="logo-anr.png"
      alt="ANR"
-     style="width: 200px;" />
+     width="200" />
