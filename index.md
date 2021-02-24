@@ -48,6 +48,6 @@ Accepted papers will be published on the free open-access repository CEUR-WS, **
 
 ## Supporters
 
-<img src="logo-anr.png" alt="ANR" width="200" />
-<img src="LOGO_officiel_cropped.png" alt="ANR" width="200" />
+<img src="logo-anr.png" alt="ANR" width="200" style="float: left; margin-right: 10px;"/>
+<img src="LOGO_officiel_cropped.png" alt="ANR" width="200" style="float: left; margin-right: 10px;"/>
 
