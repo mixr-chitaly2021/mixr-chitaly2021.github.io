@@ -4,7 +4,7 @@ MIXR will be held <strong>online</strong> in conjunction with [CHItaly 2021](htt
 
 ## Important dates (updated):
 
-* May 2nd, 2021 - [Extended] Paper submission deadline
+* May 2nd, 2021 - <strong>[extended]</strong> Paper submission
 * May 14, 2021 - Notifications to contributors
 * May 24, 2021 - Camera-ready/final version deadline
 * July 12, 2021 - Workshops
