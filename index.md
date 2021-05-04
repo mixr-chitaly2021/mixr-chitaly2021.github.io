@@ -6,7 +6,7 @@ MIXR is an <strong>International</strong> Workshop, so all the submissions, proc
 
 ## Important dates (updated):
 
-* May 2nd, 2021 - <strong>[extended]</strong> Paper submission
+* May 18th, 2021 - <strong>[extended]</strong> Paper submission
 * May 14, 2021 - Notifications to contributors
 * May 24, 2021 - Camera-ready/final version deadline
 * July 12, 2021 - Workshops
