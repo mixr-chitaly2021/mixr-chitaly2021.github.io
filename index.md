@@ -2,6 +2,8 @@
 
 MIXR will be held <strong>online</strong> in conjunction with [CHItaly 2021](https://chitaly2021.inf.unibz.it/)
 
+MIXR is an <strong>International</strong> Workshop, so all the submissions, proceedings, presentations will be in <strong>English</strong>.
+
 ## Important dates (updated):
 
 * May 2nd, 2021 - <strong>[extended]</strong> Paper submission
