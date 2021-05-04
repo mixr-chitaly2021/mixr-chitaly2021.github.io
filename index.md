@@ -59,10 +59,10 @@ We invite participants to submit short (6 pages) papers that focus on Multi-part
 
 * [Maurizio Mancini](mailto:m.mancini@di.uniroma1.it), University of Rome “Sapienza”, Italy
 * [Giovanna Varni](mailto:giovanna.varni@telecom-paris.fr), LTCI, Télécom Paris, Institut polytechnique de Paris, France
-* David Murphy, University College Cork (UCC), Ireland
-* Fabio Pellacini, University of Rome “Sapienza”, Italy
-* Laura Maye, University College Cork, Ireland
-* [Patrick O'Toole](patrick.otoole@umail.ucc.ie), University College Cork, Ireland
+* [David Murphy](mailto:d.murphy@cs.ucc.ie), University College Cork (UCC), Ireland
+* [Fabio Pellacini](mailto:pellacini@di.uniroma1.it ), University of Rome “Sapienza”, Italy
+* [Laura Maye](mailto:laura.maye@ucc.ie), University College Cork, Ireland
+* [Patrick O'Toole](mailto:patrick.otoole@umail.ucc.ie), University College Cork, Ireland
 
 
 ## Supporters
