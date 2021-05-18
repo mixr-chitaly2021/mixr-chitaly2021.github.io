@@ -11,8 +11,6 @@ Accepted papers will be published online on the open-access repository CEUR-WS, 
 ## Important dates (updated):
 
 * May 18th, 2021 - <strong>[extended]</strong> Paper submission
-* May 14, 2021 - Notifications to contributors
-* May 24, 2021 - Camera-ready/final version deadline
 * July 12, 2021 - Workshops
 
 (All deadlines are meant till 11.59 pm CET)
