@@ -67,6 +67,6 @@ We invite participants to submit short (6 pages) papers that focus on Multi-part
 
 This workshop has been partially supported by the French National Research Agency (ANR) in the framework of its JCJC program (GRACE, project ANR-18-CE33-0003-01, funded under the Artificial Intelligence Plan) and by the SceneHash (A Content-Indexable Data Structure for Collaborative 3D Environments) Project.
 
-<img src="logo-anr.png" alt="ANR" width="80" style="float: left; margin-right: 10px;"/>
+<img src="logo-anr.png" alt="ANR" width="60" style="float: left; margin-right: 10px;"/>
 <img src="LOGO_officiel_cropped.png" alt="ANR" width="180" style="float: left; margin-right: 10px;"/>
 
