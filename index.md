@@ -6,8 +6,9 @@ MIXR is an <strong>International</strong> Workshop, so all the submissions, proc
 
 ## Proceedings
 
-Accepted papers will be published online on the open-access repository CEUR-WS, **which is indexed on SCOPUS**.
+http://ceur-ws.org/Vol-2934/
 
+<!--
 ## Important dates (updated):
 
 * May 18th, 2021 - <strong>[extended]</strong> Paper submission
@@ -23,7 +24,7 @@ Authors should use the 1 column CEUR-ART style:
 * The style is available from: Vol-XXX
 * An Overleaf page is available at: [https://www.overleaf.com/read/gwhxnqcghhdt](https://www.overleaf.com/read/gwhxnqcghhdt)
 * The offline version with the style files is at: [http://ceur-ws.org/Vol-XXX/CEURART.zip](http://ceur-ws.org/Vol-XXX/CEURART.zip)
-
+-->
 
 ## Workshop description
 
